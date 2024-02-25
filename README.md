@@ -2,7 +2,7 @@
 Анализ и описание данных из [датасета](https://drive.google.com/drive/folders/1aFKLSPxRmW-5j5zfPCiGA3NZ-xRPmfs5?usp=sharing) от Skillfactory
 
 Результаты анализа доступны для просмотра из 
-[ноутбук](http://nbviewer.jupyter.org/github/mureich81/sf_dst97/blob/main/SF_PROJECT_1/Project_1_HHru.ipynb?flush_cache=true)
+[ноутбук](https://github.com/mureich81/OnLineShop/blob/master/PROJECT_6_ClientSegmentation_OnLineShop.ipynb)
 
 
 ## Оглавление  
