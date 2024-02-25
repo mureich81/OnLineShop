@@ -1,5 +1,5 @@
 # Проект MATH_ML_6. Сегмнтация клиентов онлайн магазина
-Анализ и описание данных из [датасета]([https://drive.google.com/drive/folders/1aFKLSPxRmW-5j5zfPCiGA3NZ-xRPmfs5?usp=sharing](https://lms-cdn.skillfactory.ru/assets/courseware/v1/468638e49cb9e7d4b4dfdc296c1c778e/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block/pj6_data.zip])) от Skillfactory
+Анализ и описание данных из [датасета](https://drive.google.com/drive/folders/1aFKLSPxRmW-5j5zfPCiGA3NZ-xRPmfs5?usp=sharing) от Skillfactory
 
 Результаты анализа доступны для просмотра из 
 [ноутбук](http://nbviewer.jupyter.org/github/mureich81/sf_dst97/blob/main/SF_PROJECT_1/Project_1_HHru.ipynb?flush_cache=true)
